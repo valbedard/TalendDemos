@@ -5,6 +5,7 @@
   <taggedValue xmi:id="_hXIKcw-ZEd6qupbF9NyF4w" tag="Purpose" value="demo"/>
   <taggedValue xmi:id="_hXIKdA-ZEd6qupbF9NyF4w" tag="Status" value="Draft"/>
   <taggedValue xmi:id="_hXIKdQ-ZEd6qupbF9NyF4w" tag="Validation_Status" value="true"/>
+  <taggedValue xmi:id="_oqBWMTYqEeO-kehgQ8wp_w" tag="Property File" value="\DQ_EE_DEMOS\TDQ_Libraries\Rules\SQL\Demo_DQ_Rule_0.1.properties"/>
   <categories href="../../.Talend.definition#_8i9eQBI5Ed6TWL6NwMMHzQ"/>
-  <sqlGenericExpression xmi:id="_hXIKdg-ZEd6qupbF9NyF4w" body="SELECT COUNT(*) FROM &lt;%=__TABLE_NAME__%> &lt;%=__JOIN_CLAUSE__%> &lt;%=__WHERE_CLAUSE__%>" language="SQL"/>
+  <sqlGenericExpression xmi:id="_oqBWMDYqEeO-kehgQ8wp_w" body="SELECT COUNT(*) FROM &lt;%=__TABLE_NAME__%> &lt;%=__JOIN_CLAUSE__%> &lt;%=__WHERE_CLAUSE__%>" language="SQL"/>
 </dataquality.rules:WhereRule>
